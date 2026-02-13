@@ -4,3 +4,5 @@ pydantic
 langchain-openai
 ipykernel
 langchain-tavily
+streamlit
+pandas
